@@ -1,0 +1,16 @@
+# R files
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+
+# python & jupyter
+*.ipynb_checkpoints
+debug.log
+
+#system files
+*.ini
+
+# local data & Ref folders
+data
+Reference

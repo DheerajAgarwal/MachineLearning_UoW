@@ -2,7 +2,7 @@
 
 This repo houses my work for the machine learning specialization offered by University of Washington and made available on Coursera.
 
-The course recommends to use `GraphLab` and `SFrames`, for the course, however I decided to use `scikit-learn` anc `pandas` instead to make it more relevant to real life.
+The course recommends to use `GraphLab` and `SFrames`, however I decided to use `scikit-learn` anc `pandas` instead to make it more relevant to real life.
 
 
 # Course 1
