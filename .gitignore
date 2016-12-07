@@ -12,5 +12,5 @@ debug.log
 *.ini
 
 # local data & Ref folders
-data
-Reference
+	#data
+	#Reference
