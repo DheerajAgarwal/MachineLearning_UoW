@@ -1,0 +1,10 @@
+ANS:
+Week 4 Quiz 2
+
+1. 103.09
+2. Between -1000 and -100
+3. Between 1000 and 10000
+4. 1.91
+5. 2.58
+6. 1000
+7. Between 8e13 and 4e14

@@ -14,3 +14,7 @@ debug.log
 # local data & Ref folders
 	#data
 	#Reference
+
+# data & other files
+*.csv
+*.pdf
